@@ -1,0 +1,21 @@
+{
+  "name": "mars-smiley",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@magic/fs": "0.0.22"
+  },
+  "dependencies": {
+    "@magic/cli": "0.0.38",
+    "@magic/log": "0.1.13",
+    "sharp": "0.29.3"
+  }
+}
